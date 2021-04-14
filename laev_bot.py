@@ -1,8 +1,4 @@
-import discord
-import re
 from cmdlist import *
-from discord.ext import commands
-import DiscordUtils
 
 #Client init
 client = commands.Bot(command_prefix='!')

@@ -1,11 +1,3 @@
-import pandas
-from array import *
-import numpy
-import re
-import os.path
-from PIL import Image
-from discord import *
-
 df = pandas.read_csv('db.csv')
 
 colordic = {
